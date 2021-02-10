@@ -1,15 +1,21 @@
+html{
+
+}
+section{
+  flex: content;
+  }
 section p {
   border-color: skyblue;
   background-color: aquamarine;
   color: aquamarine;
 
 }
-section .marino {
+section.marino {
   border-color: royalblue;
  background-color: royalblue;
  color: royalblue;
 }
-section .noche{
+section.noche{
   border-color: rgb(37, 20, 192);
   background-color: rgb(37, 20, 192);
   color: rgb(37, 20, 192);
