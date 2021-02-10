@@ -1,6 +1,12 @@
 body {
 
 }
-ul .class1{
+section .azul {
   background-color: aquamarine;
+}
+section .marino {
+ background-color: royalblue;
+}
+section .noche{
+  background-color: rgb(37, 20, 192);
 }
