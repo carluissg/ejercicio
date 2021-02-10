@@ -1,31 +1,3 @@
-html{
+section {
 
-}
-body {
-
-}
-section{
-  flex: content;
-  }
-h3.azul{
-  flex: content;
-  border-color: skyblue;
-  background-color: aquamarine;
-  color: aquamarine;
-
-}
-h3.marino{
-  flex: content;
-  border-color: royalblue;
- background-color: royalblue;
- color: royalblue;
-}
-h3.nohce{
-  flex: content;
-  border-color: rgb(37, 20, 192);
-  background-color: rgb(37, 20, 192);
-  color: rgb(37, 20, 192);
-}
-h3{
-  border-color: rgb(37, 20, 192);
 }
