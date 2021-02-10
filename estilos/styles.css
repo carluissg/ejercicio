@@ -1,3 +1,25 @@
 section {
  background-color: royalblue;
 }
+section{
+  background-color: saddlebrown;
+}
+
+*{
+  box-sizing: border-box;
+}
+body {
+margin: 0px;
+}
+.contenedor {
+  display: flex;
+}
+.contenedor .color{
+  height: 100px;
+  width: 20px;
+  border-color: 2px solid sienna;
+  flex-grow: 5px;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
