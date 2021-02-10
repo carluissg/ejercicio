@@ -3,10 +3,13 @@ body {
 }
 section .azul {
   background-color: aquamarine;
+  color: aquamarine;
 }
 section .marino {
  background-color: royalblue;
+ color: royalblue;
 }
 section .noche{
   background-color: rgb(37, 20, 192);
+  color: rgb(37, 20, 192);
 }
